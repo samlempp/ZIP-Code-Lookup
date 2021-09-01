@@ -3,6 +3,10 @@ layout: page
 title: Journal
 permalink: /journal/
 ---
+<h3>Schedule</h3>
+Team Meetings:
+Client Meetings: Wednesdays 3:00 - 4:00 pm
+Mentor Meetings: 
 
 <ul class="post-list">
   {% for post in site.posts %}
