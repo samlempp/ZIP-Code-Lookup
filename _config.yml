@@ -32,6 +32,11 @@ github_username:  samlempp
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - project.md
+  - team.md
+  - journal.md
+  - deliverables.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
