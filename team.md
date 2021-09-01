@@ -8,7 +8,7 @@ permalink: /team/
     <div style="width:30%; display:table-cell;">
       <img src="{{ site.baseurl }}/images/sam_lempp.jpg">
     </div>
-    <div style="width:70%;display:table-cell;padding-left:5px">
+    <div style="width:70%;display:table-cell;padding-left:20px">
       <h3>
         Sam Lempp
       </h3>
