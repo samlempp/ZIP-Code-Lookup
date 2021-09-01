@@ -4,10 +4,13 @@ title: Journal
 permalink: /journal/
 ---
 
-<ul>
+<ul class="post-list">
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="post-meta">{{ post.date }}</span>
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h3>
     </li>
   {% endfor %}
 </ul>
