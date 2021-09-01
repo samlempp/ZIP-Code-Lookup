@@ -36,7 +36,7 @@ header_pages:
   - project.md
   - team.md
   - journal.md
-  - deliverables.md
+  - deliverables/index.md
 minima:
   skin: dark
 
