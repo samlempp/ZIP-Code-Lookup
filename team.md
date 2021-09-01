@@ -4,9 +4,9 @@ title: Team
 permalink: /team/
 ---
 <div style="width: 100%; display: table;">
-  <div style="display: table-row;height: 50px;">
+  <div style="display: table-row;">
     <div style="width:30%; display:table-cell;">
-      <img style="height:50px" src="{{ site.baseurl }}/images/sam_lempp.jpg">
+      <img style="height:30%" src="{{ site.baseurl }}/images/sam_lempp.jpg">
     </div>
     <div style="width:70%;display:table-cell;padding-left:20px">
       <h3>
