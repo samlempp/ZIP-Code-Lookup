@@ -6,8 +6,8 @@ permalink: /deliverables/
 
 <ul>
   <li>
-    <h2>
-      <a href="assigment2">Assigment 2</a>
-    </h2>
+    <h1>
+      <a href="assignment2">Assigment 2</a>
+    </h1>
   </li>
 </ul>
