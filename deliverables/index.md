@@ -4,10 +4,10 @@ title: Deliverables
 permalink: /deliverables/
 ---
 
-<ul>
+<ul class="post-list">
   <li>
-    <h1>
+    <h3>
       <a href="assignment2">Assigment 2</a>
-    </h1>
+    </h3>
   </li>
 </ul>
