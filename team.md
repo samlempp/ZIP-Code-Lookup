@@ -12,6 +12,7 @@ permalink: /team/
       <h3>
         Sam Lempp
       </h3>
+      <a href = "mailto: slempp@live.unc.edu">slempp@live.unc.edu</a>
     </div>
   </div>
 </div>
