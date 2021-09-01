@@ -4,9 +4,9 @@ title: Journal
 permalink: /journal/
 ---
 <h3>Schedule</h3>
-Team Meetings:
-Client Meetings: Wednesdays 3:00 - 4:00 pm
-Mentor Meetings: 
+Team Meetings: <br>
+Client Meetings: Wednesdays 3:00 - 4:00 pm <br>
+Mentor Meetings: <br>
 
 <ul class="post-list">
   {% for post in site.posts %}
