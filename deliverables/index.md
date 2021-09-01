@@ -8,7 +8,7 @@ permalink: /deliverables/
   <li>
     <span class="post-meta">September 7, 2021</span>
     <h3>
-      <a href="assignment2">Assigment 2</a>
+      <a href="assignment2">Assigment 2: Project Management Approach</a>
     </h3>
   </li>
 </ul>
