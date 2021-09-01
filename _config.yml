@@ -29,10 +29,9 @@ url: "https://samlempp.github.io" # the base hostname & protocol for your site, 
 github_username:  samlempp
 
 # Build settings
-theme: pages-themes/slate@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 header_pages:
   - project.md
   - team.md
