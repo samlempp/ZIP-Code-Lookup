@@ -7,7 +7,7 @@ permalink: /journal/
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
-      <span class="post-meta">{{ post.date }}</span>
+      <span class="post-meta">{{ post.date | %B %d, %Y}}</span>
       <h3>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </h3>
