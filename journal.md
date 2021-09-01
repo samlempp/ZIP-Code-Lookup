@@ -7,6 +7,7 @@ permalink: /journal/
 Team Meetings: <br>
 Client Meetings: Wednesdays 3:00 - 4:00 pm <br>
 Mentor Meetings: <br>
+<br>
 
 <ul class="post-list">
   {% for post in site.posts %}
