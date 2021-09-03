@@ -18,7 +18,7 @@ permalink: /team/
   </div>
   <div style="display: table-row;">
     <div style="width:30%; display:table-cell;">
-      <img style="height:30%" src="{{ site.baseurl }}/images/sam_lempp.jpg">
+      <img style="height:30%" src="{{ site.baseurl }}/images/david.jpg">
     </div>
     <div style="width:70%;display:table-cell;padding-left:20px">
       Team Leader
