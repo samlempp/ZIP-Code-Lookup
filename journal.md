@@ -4,8 +4,8 @@ title: Journal
 permalink: /journal/
 ---
 <h2>Schedule</h2>
-<b>Team Meetings:</b> <br>
-<b>Client Meetings:</b> Wednesdays 3:00 - 4:00 pm <br>
+<b>Team Meetings:</b>Mondays 3:00 - 4:00 pm, Wednesdays 4:00-5:00 p.m.<br>
+<b>Client Meetings:</b> Wednesdays 3:00 - 4:00 p.m.<br>
 <b>Mentor Meetings:</b> <br>
 <br>
 
