@@ -2,6 +2,7 @@
 layout: page
 title: Assignment 2: Project Management Approach
 permalink: /deliverables/assignment2/
+
 ---
 
 Our team will be taking an agile approach to project management.  We will be meeting biweekly, in a standup fashion, where we will update the other members of the team on what we have been working on since our last meeting and what we will be working on until our next meeting. This serves the purpose ensuring our work does not overlap and keeping issues we are having with our tasks visible to the rest of team. Furthermore, we will have a weekly showcase to the client, this could become every other week later in the semester, where we will showcase what we have done since our last showcase and get his feedback on the direction of the project, and approval on any possible developments we have had. We will also follow those meetings with a retro/planning meeting where will evaluate how our various efforts went the past week and what better practices we can have for the following week.
