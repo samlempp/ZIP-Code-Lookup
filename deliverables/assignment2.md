@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assignment 2: Project Management Approach
+title: Assignment 2 - Project Management Approach
 permalink: /deliverables/assignment2/
 ---
 
