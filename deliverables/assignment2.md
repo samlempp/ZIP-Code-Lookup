@@ -9,8 +9,5 @@ permalink: /deliverables/assignment2/
 <p>The <a href="https://trello.com/b/qlVDls1k/engineering-team">Trello board</a>, along with our weekly meetings, will allow us to make sure our project is not falling behind.  Since we are setting forth what we are planning each week, we will know if we are not actually finishing all of it.  The labels on the cards on trello will also allow us to know who has finished what, and if the amount of work is disproportionate.  All in all, our team will work together to create the best product we can for our client.</p>
 
 
--	Josh Parker (Team Leader)
-
-
 
 
