@@ -11,7 +11,7 @@ permalink: /journal/
 
 <h2>Journal</h2>
 <ul class="post-list">
-  {% for post in site._posts %}
+  {% for post in site.posts %}
     <li>
       <span class="post-meta">{{ post.date | date: "%B %d, %Y"}}</span>
       <h3>
