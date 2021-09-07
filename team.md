@@ -43,6 +43,7 @@ permalink: /team/
     </div>
   </div>
 </div>
+<br>
 <h2> Team Rules </h2>
 <ol>
   <li>A team member should notify the team one day in advance if they can not make a meeting in order to have time to look into rescheduling</li>
