@@ -43,3 +43,10 @@ permalink: /team/
     </div>
   </div>
 </div>
+<h2> Team Rules </h2>
+<ol>
+  <li>A team member should notify the team one day in advance if they can not make a meeting in order to have time to look into rescheduling</li>
+  <li>A team member should notify the team if they are particularly busy on a certain day or week, especially if other members are relying on their work</li>
+  <li>There will be no rules defining a coding style, however team members will communicate in order to retain a fairly consistent code base that shows their understanding of how it functions</li>
+  <li>The team will use <a href="https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow">trunk based development</a> for git collaboration</li>
+</ol>
