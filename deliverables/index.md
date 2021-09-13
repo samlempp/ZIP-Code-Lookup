@@ -11,7 +11,7 @@ permalink: /deliverables/
       <a href="assignment2">Assigment 2: Project Management Approach</a>
     </h3>
     <h3>
-      <a href="assignment3">Assigment 2: User Stories</a>
-    </h3
+      <a href="assignment3">Assigment 3: User Stories</a>
+    </h3>
   </li>
 </ul>
