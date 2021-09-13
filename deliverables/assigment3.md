@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assignment 2 - User Stories
+title: Assignment 3 - User Stories
 permalink: /deliverables/assignment3/
 ---
 <h3> Roles: </h3>
