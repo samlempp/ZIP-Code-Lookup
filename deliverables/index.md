@@ -26,7 +26,7 @@ permalink: /deliverables/
   <li>
     <span class="post-meta">September 27, 2021</span>
     <h3>
-      <a href="assignment4">Assigment 5: APPLES Reflection 1</a>
+      <a href="assignment5">Assigment 5: APPLES Reflection 1</a>
     </h3>
   </li>
 </ul>
