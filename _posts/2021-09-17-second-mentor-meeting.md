@@ -3,7 +3,7 @@ layout: post
 title:  "Second Mentor Meeting and General Updates"
 date:   2021-09-17 17:04:14 -0400
 categories: project update
-permalink: /posts/2021-09-01-first-client-meeting
+permalink: /posts/2021-09-17-second-mentor-meeting
 ---
 
 <p>We had another successful meeting with our mentor today. We displayed our clickable prototype on Figma and discussed our choice of Django for the environment 
