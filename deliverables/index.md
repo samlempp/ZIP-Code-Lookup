@@ -23,4 +23,10 @@ permalink: /deliverables/
       <a href="assignment4">Assigment 4: Clickable Prototype</a>
     </h3>
   </li>
+  <li>
+    <span class="post-meta">September 27, 2021</span>
+    <h3>
+      <a href="assignment4">Assigment 5: APPLES Reflection 1</a>
+    </h3>
+  </li>
 </ul>
