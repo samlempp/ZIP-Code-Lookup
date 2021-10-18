@@ -41,4 +41,10 @@ permalink: /deliverables/
       <a href="assignment7">Assigment 7: Architechture Diagram</a>
     </h3>
   </li>
+  <li>
+    <span class="post-meta">October 18, 2021</span>
+    <h3>
+      <a href="assignment8">Assigment 8: Architechture Diagram</a>
+    </h3>
+  </li>
 </ul>
