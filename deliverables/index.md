@@ -47,4 +47,10 @@ permalink: /deliverables/
       <a href="https://pear-data-app.herokuapp.com/">Assigment 8: Walking Skeleton</a>
     </h3>
   </li>
+  <li>
+    <span class="post-meta">October 18, 2021</span>
+    <h3>
+      <a href="https://docs.google.com/presentation/d/1b2KmeXprdCqtpZFb-QR1FHqvjz_8kitYopXb6T3bTh8/edit?usp=sharing">Assigment 9: Midterm Project</a>
+    </h3>
+  </li>
 </ul>
