@@ -6,7 +6,7 @@ categories: project update
 permalink: /posts/2021-11-01-demo-video-csv
 ---
 
-<video width="320" height="240" controls>
+<video width="1280" height="720" controls>
   <source src="{{ site.baseurl }}/images/zoom_2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
