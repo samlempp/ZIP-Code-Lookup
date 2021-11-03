@@ -53,4 +53,10 @@ permalink: /deliverables/
       <a href="https://docs.google.com/presentation/d/1b2KmeXprdCqtpZFb-QR1FHqvjz_8kitYopXb6T3bTh8/edit?usp=sharing">Assigment 9: Midterm Project</a>
     </h3>
   </li>
+   <li>
+    <span class="post-meta">November 2, 2021</span>
+    <h3>
+      <a href="assignment10">Assigment 10: Tech Talk</a>
+    </h3>
+  </li>
 </ul>
