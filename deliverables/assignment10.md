@@ -10,4 +10,4 @@ permalink: /deliverables/assignment10/
 
 <h2><a href="https://docs.google.com/presentation/d/1zXjEx96snCxfP6NoDWtrcIxOEk2vnwKBsby00xrhNyw/edit?usp=sharing">Presentation Link</a></h2>
 
-<h2><a href="https://www.anyfiddle.com/p/jmparker929/g2fdwh0e">Django Example</a></h2>
+<h2><a href="https://www.anyfiddle.com/p/davidlundberg99/4iyp8jbl">Django Example</a></h2>
