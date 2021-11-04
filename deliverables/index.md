@@ -44,7 +44,7 @@ permalink: /deliverables/
   <li>
     <span class="post-meta">October 18, 2021</span>
     <h3>
-      <a href="https://pear-data-app.herokuapp.com/">Assigment 8: Walking Skeleton</a>
+      <a href="http://pear-git-slempp.apps.cloudapps.unc.edu/home">Assigment 8: Walking Skeleton</a>
     </h3>
   </li>
   <li>
