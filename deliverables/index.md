@@ -59,4 +59,10 @@ permalink: /deliverables/
       <a href="assignment10">Assigment 10: Tech Talk</a>
     </h3>
   </li>
+  <li>
+    <span class="post-meta">November 7, 2021</span>
+    <h3>
+      <a href="assignment11">Assigment 11: Test Coverage Report</a>
+    </h3>
+  </li>
 </ul>
