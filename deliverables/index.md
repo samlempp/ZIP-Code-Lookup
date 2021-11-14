@@ -65,4 +65,11 @@ permalink: /deliverables/
       <a href="assignment11">Assigment 11: Test Coverage Report</a>
     </h3>
   </li>
+   <li>
+    <span class="post-meta">November 14, 2021</span>
+    <h3>
+      <a href="https://github.com/jmp929/pear">Assigment 12: Developer README</a>
+    </h3>
+  </li>
+  <li>
 </ul>
