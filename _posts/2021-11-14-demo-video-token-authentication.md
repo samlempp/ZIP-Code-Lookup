@@ -7,6 +7,6 @@ permalink: /posts/2021-11-14-demo-video-token-authentication
 ---
 
 <video width="640" height="480" controls>
-  <source src="{{ site.baseurl }}/images/COMP_523_demo.mov" type="video/mov">
+  <source src="{{ site.baseurl }}/images/COMP_523_demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
