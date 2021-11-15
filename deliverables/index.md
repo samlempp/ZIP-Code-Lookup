@@ -71,5 +71,4 @@ permalink: /deliverables/
       <a href="https://github.com/jmp929/pear">Assigment 12: Developer README</a>
     </h3>
   </li>
-  <li>
 </ul>
