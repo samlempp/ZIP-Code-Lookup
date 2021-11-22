@@ -71,4 +71,10 @@ permalink: /deliverables/
       <a href="https://github.com/jmp929/pear">Assigment 12: Developer README</a>
     </h3>
   </li>
+  <li>
+    <span class="post-meta">November 22, 2021</span>
+    <h3>
+       <a href="assignment14">Assigment 14: APPLES Reflection 2</a>
+    </h3>
+  </li>
 </ul>
