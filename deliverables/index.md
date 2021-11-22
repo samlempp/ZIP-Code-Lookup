@@ -74,6 +74,12 @@ permalink: /deliverables/
   <li>
     <span class="post-meta">November 22, 2021</span>
     <h3>
+       <a href="assignment13">Assigment 14: Client Oriented Overview</a>
+    </h3>
+  </li>
+  <li>
+    <span class="post-meta">November 22, 2021</span>
+    <h3>
        <a href="assignment14">Assigment 14: APPLES Reflection 2</a>
     </h3>
   </li>
