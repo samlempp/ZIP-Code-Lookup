@@ -83,4 +83,10 @@ permalink: /deliverables/
        <a href="assignment14">Assigment 14: APPLES Reflection 2</a>
     </h3>
   </li>
+  <li>
+    <span class="post-meta">December 4, 2021</span>
+    <h3>
+       <a href="https://docs.google.com/presentation/d/1XIfEvyGDWHUlquygtjGewd9HMD1QMRS6J_rG9vUJNQo/edit?usp=sharing">Assigment 17: Final Presentation</a>
+    </h3>
+  </li>
 </ul>
